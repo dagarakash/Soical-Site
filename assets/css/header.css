@@ -1,0 +1,26 @@
+#header_before{
+  color: lightgoldenrodyellow;
+  display: flex;
+
+    background-color: #231a17ab;
+    box-shadow: 1px 1px 12px 2px black;
+    text-shadow: 3px 0px 7px black;
+    color: #b87c28ba;
+}
+  
+
+a{
+  position: relative;
+  left: 80%;
+  margin: 0.5rem;
+  color: aliceblue;
+}
+
+#header_after{
+  
+    background-color: #231a17ab;
+    box-shadow: 1px 1px 12px 2px black;
+    text-shadow: 3px 0px 7px black;
+    color: #b87c28ba;
+}
+  

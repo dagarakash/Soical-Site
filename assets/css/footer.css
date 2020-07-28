@@ -1,0 +1,9 @@
+#footer{
+    
+    color:white;
+    display: flex;
+    flex-direction: row;
+
+    position: absolute;
+    top: 95vh;
+}
